@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/mrdon/RiderProjects/MG_TopDownGame/MG_TopDownGame/Content/EnemyTank.png</File>
+    <File>C:/Users/mrdon/RiderProjects/MG_TopDownGame/MG_TopDownGame/Content/playerTank.png</File>
+    <File>C:/Users/mrdon/RiderProjects/MG_TopDownGame/MG_TopDownGame/Content/background.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>EnemyTank.png</File>
+    <File>playerTank.png</File>
+    <File>background.png</File>
+  </DestFiles>
+</SourceFileCollection>
